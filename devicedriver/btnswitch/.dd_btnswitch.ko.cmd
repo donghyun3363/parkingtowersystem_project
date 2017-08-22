@@ -1,0 +1,1 @@
+cmd_/home/hoyoung/edk9/modules/btnswitch/dd_btnswitch.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/hoyoung/edk9/linux/scripts/module-common.lds --build-id  -o /home/hoyoung/edk9/modules/btnswitch/dd_btnswitch.ko /home/hoyoung/edk9/modules/btnswitch/dd_btnswitch.o /home/hoyoung/edk9/modules/btnswitch/dd_btnswitch.mod.o
