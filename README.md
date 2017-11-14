@@ -44,11 +44,16 @@ Parking Tower System에서는 차량번호를 입력하는 경우에
  System on/off등을 알리는 기능으로 사용한다.
 
 
-## CDS
+### CDS
 
 ![6](https://user-images.githubusercontent.com/29852523/29558700-e03550a8-8767-11e7-82e0-dbc19aa157a2.png)
 
 Cadmium sulfide 셀이다. 빛을 받으면 저항이 줄어드는 기능을 한다.
 Parking Tower System에서는 출차 진행과정에서 일정 밝기 이하가 되는 경우에, 
 경고 상태를 인지하는 기능을 한다. 
+
+
+
+### 개발일정
+
 
